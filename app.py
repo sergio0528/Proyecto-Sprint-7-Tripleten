@@ -4,6 +4,8 @@ import streamlit as st
 
 df = pd.read_csv("vehicles_us.csv")
 
+st.header("Análisis de anuncios de venta de vehiculos")
+
 hist_button = st.button("Construir histograma")
 if hist_button:
     st.write("Histograma de la columna odómetro")

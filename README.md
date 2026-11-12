@@ -5,3 +5,5 @@ Se configura una aplicación para examinar las caracteristicas de los vehiculos 
 La aplicación cuanta con funcionalidades como histograma y grafico de dispersión de los datos.
 
 Cabe aclarar que los requerimientos del proyecto son Python, pandas, plotly y Streamlit.
+
+el enlace a la app es: https://proyecto-sprint-7-tripleten-sergio.onrender.com/
